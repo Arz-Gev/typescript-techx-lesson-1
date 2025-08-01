@@ -5,6 +5,6 @@ export function capitalize(str: string): string {
   return arr.map((e) => e[0]?.toUpperCase() + e.slice(1)).join(" ");
 }
 
-export function logMessage(str: string): void {
-  console.log(str);
+export function logMessage(input: string | number): void {
+  console.log(input);
 }
