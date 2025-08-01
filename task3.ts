@@ -13,4 +13,3 @@
 // Step 3: Create a main.ts file where you import and use the functions from math.ts and utils.ts.
 
 // Hint: Make sure to organize your functions properly and use appropriate module syntax with export and import.
-
